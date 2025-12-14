@@ -1,0 +1,20 @@
+2025-12-14 14:12:35,474 - INFO - Request: POST /synthesize | Params: {'text_len': 66}
+2025-12-14 14:12:36,958 - ERROR - Error: Synthesis failed | Details: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=1c9edd3cf1fd4d0cb9676b4489e36900'
+2025-12-14 14:12:56,069 - INFO - Request: POST /synthesize | Params: {'text_len': 66}
+2025-12-14 14:12:57,387 - ERROR - Error: Synthesis failed | Details: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=2100e98b4a4e4780af8e2d51c6d48372'
+2025-12-14 14:18:12,715 - INFO - Request: POST /synthesize | Params: {'text_len': 116}
+2025-12-14 14:18:14,979 - INFO - Synthesis: lang=en, voice=male, len=100, duration=2259.7290000000003ms
+2025-12-14 14:18:15,319 - INFO - Request: GET /download/tts_15c026af.mp3 | Params: None
+2025-12-14 14:18:46,851 - INFO - Request: POST /synthesize | Params: {'text_len': 116}
+2025-12-14 14:18:48,597 - INFO - Synthesis: lang=en, voice=female, len=100, duration=1745.693ms
+2025-12-14 14:18:48,911 - INFO - Request: GET /download/tts_18f3a175.mp3 | Params: None
+2025-12-14 14:19:02,584 - INFO - Request: POST /synthesize | Params: {'text_len': 116}
+2025-12-14 14:19:05,124 - INFO - Synthesis: lang=en, voice=male, len=100, duration=2538.8630000000003ms
+2025-12-14 14:19:05,445 - INFO - Request: GET /download/tts_97cf3a35.mp3 | Params: None
+2025-12-14 14:19:29,561 - INFO - Request: GET /download/tts_97cf3a35.mp3 | Params: None
+2025-12-14 14:19:37,647 - INFO - Request: POST /synthesize | Params: {'text_len': 116}
+2025-12-14 14:19:41,490 - INFO - Synthesis: lang=ar, voice=male, len=100, duration=3841.634ms
+2025-12-14 14:19:41,808 - INFO - Request: GET /download/tts_c379aa72.mp3 | Params: None
+2025-12-14 14:20:02,265 - INFO - Request: POST /synthesize | Params: {'text_len': 116}
+2025-12-14 14:20:05,101 - INFO - Synthesis: lang=ar, voice=female, len=100, duration=2835.209ms
+2025-12-14 14:20:05,420 - INFO - Request: GET /download/tts_8bcf4a7f.mp3 | Params: None
